@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/andresmejiaro/Madrid/blob/main/schemas/theme.schema.json",
+  "title": "Madrid theme seed",
+  "type": "object",
+  "required": ["id", "title", "status"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^MAD-[0-9]{3}$"},
+    "title": {"type": "string", "minLength": 1},
+    "status": {
+      "enum": ["seed", "scouting", "dossier", "route_candidate", "on_hold", "rejected"]
+    },
+    "central_question": {"type": ["string", "null"]},
+    "experience_promise": {"type": ["string", "null"]},
+    "madrid_specificity": {"type": ["string", "null"]},
+    "evidence_signals": {"type": "array", "items": {"type": "string"}},
+    "materiality_hypothesis": {"type": ["string", "null"]},
+    "distinctness": {"type": ["string", "null"]},
+    "risks": {"type": "array", "items": {"type": "string"}},
+    "sources": {"type": "array", "items": {"type": "string", "format": "uri"}}
+  },
+  "additionalProperties": false
+}
