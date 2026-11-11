@@ -29,14 +29,28 @@ Este banco expande la conversación inicial. Todas las entradas están en estado
 | MAD-023 | Madrid de imprentas, censura y panfletos | Seguir cómo las ideas se imprimieron, prohibieron y circularon | poca huella material de talleres concretos |
 | MAD-024 | Teatros que cambiaron de función | Comparar espectáculo, incendio, censura, ruina y reinvención | exteriores inertes fuera de función |
 | MAD-025 | Animales de piedra y bestiario urbano | Usar criaturas, símbolos y rarezas para revelar quién quiso representar la ciudad | convertirse en búsqueda lúdica sin arco |
+| MAD-026 | Conquista de Mayrit y relato de la Reconquista | Distinguir la conquista medieval de la memoria nacional construida después | reducir siglos de frontera a una narración lineal |
+| MAD-027 | La monarquía fabrica una capital | Ver cómo la presencia real convirtió una villa en centro político y ceremonial | tema demasiado amplio si no aparece una transformación concreta |
+| MAD-028 | Madrid de los Austrias: corte, validos y ceremonial | Leer la capital como maquinaria de acceso al rey, favor y representación | repetir el Madrid turístico de plazas y palacios |
+| MAD-029 | Reinas y regencias | Seguir a mujeres que gobernaron, negociaron sucesiones o sostuvieron la Corona | convertirlas en biografías aisladas sin conflicto común |
+| MAD-030 | Crisis dinásticas y guerras de sucesión | Mostrar cómo una disputa familiar reorganiza la ciudad y el Estado | demasiada política nacional con poca huella madrileña |
+| MAD-031 | Los Borbones rediseñan Madrid | Reconocer la nueva capital de paseos, puertas, ciencia y administración | solapamiento con ciencia, arquitectura y poder real |
+| MAD-032 | Madrid, capital de un imperio sin puerto | Descubrir cómo se gobernaron territorios oceánicos desde una ciudad interior | decisiones administrativas difíciles de materializar en calle |
+| MAD-033 | Conquista de América: héroes, violencia y mito nacional | Comparar hechos, monumentos y fabricación posterior de héroes imperiales | ruta de estatuas sin experiencia distinta entre puntos |
+| MAD-034 | Ciencia imperial, expediciones y colecciones | Seguir cómo plantas, objetos, mapas y cuerpos fueron convertidos en conocimiento | depender de museos y perder continuidad urbana |
+| MAD-035 | Esclavitud, abolición y fortunas coloniales | Hacer visibles redes económicas y políticas ocultas tras edificios y prestigio | evidencia dispersa y riesgo de afirmaciones genealógicas débiles |
+| MAD-036 | El imperio expuesto | Examinar exposiciones coloniales, zoológicos humanos y escenografías de dominación | huellas desaparecidas o experiencia basada solo en reconstrucción |
+| MAD-037 | Cuba, Puerto Rico, Filipinas y 1898 | Leer cómo la pérdida colonial transformó ejército, prensa, política e identidad | relato nacional amplio con final madrileño poco claro |
+| MAD-038 | Herencias coloniales en el Madrid actual | Conectar monumentos, nombres, colecciones y migraciones sin fingir una continuidad simple | mezclar épocas y experiencias que necesitan rutas distintas |
 
 ## Familias provisionales
 
 Las familias no deciden rutas; permiten detectar repetición temprana.
 
 - **Ciudad oculta:** MAD-001, 002, 008, 016, 021, 023.
-- **Poder y conflicto:** MAD-004, 005, 006, 011, 016, 022.
+- **Poder y conflicto:** MAD-004, 005, 006, 011, 016, 022, 026, 027, 028, 030, 031.
 - **Transformación material:** MAD-003, 009, 014, 017, 018, 024.
-- **Memoria y vidas:** MAD-012, 013, 015, 019.
+- **Memoria y vidas:** MAD-012, 013, 015, 019, 029, 037, 038.
 - **Extrañeza y percepción:** MAD-007, 020, 025.
-- **Conocimiento y representación:** MAD-009, 010, 022, 023, 024.
+- **Conocimiento y representación:** MAD-009, 010, 022, 023, 024, 033, 034, 036.
+- **Monarquía, conquista e imperio:** MAD-026–038. Esta familia es deliberadamente amplia: sus semillas podrán fusionarse, dividirse o trasladarse a otros temas después del scouting.
