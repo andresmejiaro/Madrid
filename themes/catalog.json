@@ -1,7 +1,7 @@
 {
   "version": 1,
   "updated": "2026-11-12",
-  "phase": "thematic_point_discovery",
+  "phase": "tourist_point_discovery",
   "themes": [
     {"id":"MAD-001","title":"Madrid islámico y sus aguas","status":"scouting"},
     {"id":"MAD-002","title":"Madrid desaparecido","status":"scouting"},

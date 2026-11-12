@@ -6,7 +6,7 @@ Construir un portafolio de experiencias temáticas por toda la Comunidad de Madr
 
 ## Unidad actual de trabajo
 
-La unidad de búsqueda de la **fase 1** es el tema. Cada tema reúne puntos candidatos que pueden alimentar futuros recorridos. La [decisión de alcance](../decisions/2026-11-12_busqueda_de_puntos.md) distingue las fases de búsqueda temática, turística y geográfica.
+La unidad de búsqueda de la **fase 2** es el punto de interés por sí mismo. La fase 1 reunió candidatos a partir de temas. La [decisión de alcance](../decisions/2026-11-12_busqueda_de_puntos.md) distingue las fases de búsqueda temática, turística y geográfica.
 
 ## Estados
 

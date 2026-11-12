@@ -4,7 +4,11 @@ Repositorio de investigación y diseño para un futuro portafolio de rutas temá
 
 ## Estado actual
 
-**Fase 1 completada: búsqueda de puntos por temas en la Comunidad de Madrid.**
+**Fase 2: búsqueda de puntos de interés turístico en la Comunidad de Madrid.**
+
+La [lista de interés turístico](points/fase-2-interes-turistico.md) reúne 70 puntos en 29 municipios, con 42 candidatos fuera de la capital.
+
+### Fase 1 completada
 
 El catálogo reúne 38 temas investigados. Los cuatro bloques documentan 222 registros de candidatos en 32 municipios. La cifra incluye ubicaciones con varias lecturas temáticas.
 
@@ -15,7 +19,7 @@ El catálogo reúne 38 temas investigados. Los cuatro bloques documentan 222 reg
 | [MAD-015 a MAD-028](themes/scouting/fase-1-mad-015-028.md) | 81 |
 | [MAD-029 a MAD-038](themes/scouting/fase-1-mad-029-038.md) | 57 |
 
-Las fases 2 y 3 corresponden a búsquedas independientes por interés turístico y por geografía, respectivamente.
+La búsqueda independiente por geografía corresponde a la fase 3.
 
 ## Qué hereda de París
 
@@ -36,6 +40,7 @@ La retrospectiva completa está en [`docs/01_lecciones_de_paris.md`](docs/01_lec
 
 - `docs/`: principios, proceso y criterios.
 - `themes/`: banco de temas y catálogo estructurado.
+- `points/`: puntos candidatos de la búsqueda por interés turístico.
 - `templates/`: fichas para investigar sin saltar prematuramente a una ruta.
 - `evidence/`: reglas para fuentes y evidencia.
 - `decisions/`: decisiones de alcance y cambios de criterio.

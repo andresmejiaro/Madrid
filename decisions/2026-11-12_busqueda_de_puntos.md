@@ -16,4 +16,8 @@ El primer bloque cubre [MAD-001 a MAD-007](../themes/scouting/fase-1-mad-001-007
 
 La primera búsqueda cubrió los 38 temas en cuatro bloques de 7, 7, 14 y 10. Se verificó la correspondencia entre el catálogo y los cuatro inventarios. Hay 222 registros en 32 municipios, incluidos 158 materiales, 44 condicionales y 20 documentales. Una ubicación puede aparecer en varios temas.
 
-Los 38 temas quedan en `scouting`. Siguen pendientes la comprobación de campo y las decisiones de dossier. Las búsquedas por interés turístico y por geografía corresponden a las fases posteriores. El [índice de los cuatro bloques](../README.md#estado-actual) enlaza el inventario temático completo.
+Los 38 temas quedan en `scouting`. Siguen pendientes la comprobación de campo y las decisiones de dossier. La búsqueda por interés turístico abrió la fase 2. La búsqueda por geografía corresponde a la fase 3. El [índice de los cuatro bloques](../README.md#estado-actual) enlaza el inventario temático completo.
+
+## Apertura de la fase 2
+
+El 12 de noviembre, Andrés pidió una lista independiente de lugares atractivos por sí mismos, incluidos sitios populares, miradores, lugares singulares y omisiones de la primera búsqueda. La [lista inicial](../points/fase-2-interes-turistico.md) reúne 70 candidatos de 29 municipios. El contraste con la fase 1 identifica visitas distintas dentro de recintos ya citados.
