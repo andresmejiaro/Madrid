@@ -4,7 +4,11 @@ Repositorio de investigación y diseño para un futuro portafolio de rutas temá
 
 ## Estado actual
 
-**Fase 2: búsqueda de puntos de interés turístico en la Comunidad de Madrid.**
+**Fase 3: búsqueda geográfica alrededor de puntos fuertes y aislados.**
+
+La [primera pasada geográfica](points/fase-3-entornos-geograficos.md) reúne 14 puntos de partida en 13 municipios y 28 candidatos cercanos nuevos con respaldo documental.
+
+### Fase 2 completada
 
 La [lista de interés turístico](points/fase-2-interes-turistico.md) reúne 70 puntos en 29 municipios, con 42 candidatos fuera de la capital.
 
@@ -19,7 +23,6 @@ El catálogo reúne 38 temas investigados. Los cuatro bloques documentan 222 reg
 | [MAD-015 a MAD-028](themes/scouting/fase-1-mad-015-028.md) | 81 |
 | [MAD-029 a MAD-038](themes/scouting/fase-1-mad-029-038.md) | 57 |
 
-La búsqueda independiente por geografía corresponde a la fase 3.
 
 ## Qué hereda de París
 
@@ -40,7 +43,7 @@ La retrospectiva completa está en [`docs/01_lecciones_de_paris.md`](docs/01_lec
 
 - `docs/`: principios, proceso y criterios.
 - `themes/`: banco de temas y catálogo estructurado.
-- `points/`: puntos candidatos de la búsqueda por interés turístico.
+- `points/`: inventarios de interés turístico y búsqueda geográfica.
 - `templates/`: fichas para investigar sin saltar prematuramente a una ruta.
 - `evidence/`: reglas para fuentes y evidencia.
 - `decisions/`: decisiones de alcance y cambios de criterio.

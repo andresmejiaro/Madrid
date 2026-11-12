@@ -21,3 +21,7 @@ Los 38 temas quedan en `scouting`. Siguen pendientes la comprobación de campo y
 ## Apertura de la fase 2
 
 El 12 de noviembre, Andrés pidió una lista independiente de lugares atractivos por sí mismos, incluidos sitios populares, miradores, lugares singulares y omisiones de la primera búsqueda. La [lista inicial](../points/fase-2-interes-turistico.md) reúne 70 candidatos de 29 municipios. El contraste con la fase 1 identifica visitas distintas dentro de recintos ya citados.
+
+## Apertura de la fase 3
+
+El 12 de noviembre, Andrés definió la búsqueda geográfica a partir de puntos fuertes y aislados. El propósito es encontrar qué hay cerca y comprobar qué lugares se pueden relacionar a pie. La [primera pasada geográfica](../points/fase-3-entornos-geograficos.md) revisa 14 entornos en 13 municipios. Incluye enlaces documentados, accesos condicionados y un caso de visita independiente. La revisión de El Campillo actualiza su ficha de la fase 2 con el cierre comunicado por el operador.
