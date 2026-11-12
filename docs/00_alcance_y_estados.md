@@ -2,16 +2,16 @@
 
 ## Objetivo
 
-Construir un portafolio de experiencias temáticas madrileñas que sean interesantes de caminar, no una colección de monumentos con títulos distintos.
+Construir un portafolio de experiencias temáticas por toda la Comunidad de Madrid que sean interesantes de caminar.
 
 ## Unidad actual de trabajo
 
-La unidad actual es el **tema**, definido como una posible mirada sobre la ciudad. No contiene todavía orden, distancia ni paradas.
+La unidad de búsqueda de la **fase 1** es el tema. Cada tema reúne puntos candidatos que pueden alimentar futuros recorridos. La [decisión de alcance](../decisions/2026-11-12_busqueda_de_puntos.md) distingue las fases de búsqueda temática, turística y geográfica.
 
 ## Estados
 
 1. `seed`: intuición registrada sin investigación suficiente.
-2. `scouting`: búsqueda barata de señales, fuentes y posibles tipos de experiencia.
+2. `scouting`: búsqueda inicial de puntos, fuentes y posibles tipos de experiencia.
 3. `dossier`: tema con pregunta central, promesa, evidencia preliminar, riesgos y diferenciación.
 4. `route_candidate`: el tema ha demostrado que puede justificar investigar una ruta.
 5. `on_hold`: interesante, pero depende de acceso, temporada, densidad o una pieza todavía ausente.

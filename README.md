@@ -1,12 +1,12 @@
 # Madrid — laboratorio de rutas temáticas
 
-Repositorio de investigación y diseño para un futuro portafolio de rutas temáticas a pie por Madrid.
+Repositorio de investigación y diseño para un futuro portafolio de rutas temáticas a pie por la Comunidad de Madrid.
 
 ## Estado actual
 
-**Fase 0: infraestructura y descubrimiento de temas.**
+**Fase 1: búsqueda de puntos por temas en la Comunidad de Madrid.**
 
-Todavía no hay rutas. Los temas del catálogo son semillas de investigación, no recorridos, promesas de producción ni listas de lugares. En esta fase se construye el sistema que permitirá decidir cuáles merecen convertirse en rutas.
+El catálogo reúne semillas de investigación. La primera búsqueda parte de cada tema, como en París. Las fases 2 y 3 buscarán por interés turístico y por geografía, respectivamente. El [primer bloque de puntos](themes/scouting/fase-1-mad-001-007.md) cubre MAD-001 a MAD-007.
 
 ## Qué hereda de París
 
@@ -34,4 +34,4 @@ La retrospectiva completa está en [`docs/01_lecciones_de_paris.md`](docs/01_lec
 
 ## Regla de fase
 
-Un tema solo puede pasar a investigación profunda cuando tenga una promesa distintiva y señales suficientes de material visible o experimentable. La geometría, los waypoints, los guiones y la navegación pertenecen a fases posteriores.
+La búsqueda registra candidatos con sus fuentes y su materialidad. Un tema solo puede pasar a investigación profunda cuando tenga una promesa distintiva y señales suficientes de material visible o experimentable. La selección de paradas, la geometría, los guiones y la navegación pertenecen al diseño posterior.
