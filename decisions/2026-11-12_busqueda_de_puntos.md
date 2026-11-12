@@ -8,6 +8,12 @@ Andrés definió como ámbito toda la Comunidad de Madrid y confirmó tres fases
 2. **Por interés turístico**, como búsqueda independiente.
 3. **Por geografía**, también independiente, con alcance en toda la comunidad.
 
-La fase activa es la primera. Los dos primeros bloques tuvieron una pausa de reporte cada siete temas. A partir del tercer bloque, Andrés fijó una pausa cada catorce temas. Los puntos son candidatos de investigación. Se seleccionarán paradas y se diseñará el recorrido en una etapa posterior.
+La primera fase se abrió con la búsqueda por temas. Los dos primeros bloques tuvieron una pausa de reporte cada siete temas. A partir del tercer bloque, Andrés fijó una pausa cada catorce temas. Los puntos son candidatos de investigación. Se seleccionarán paradas y se diseñará el recorrido en una etapa posterior.
 
 El primer bloque cubre [MAD-001 a MAD-007](../themes/scouting/fase-1-mad-001-007.md). Sus siete temas pasan a `scouting` porque ya cuentan con ubicaciones, señales de materialidad y fuentes iniciales. La visita de campo y las decisiones de dossier quedan pendientes.
+
+## Cierre de la primera fase
+
+La primera búsqueda cubrió los 38 temas en cuatro bloques de 7, 7, 14 y 10. Se verificó la correspondencia entre el catálogo y los cuatro inventarios. Hay 222 registros en 32 municipios, incluidos 158 materiales, 44 condicionales y 20 documentales. Una ubicación puede aparecer en varios temas.
+
+Los 38 temas quedan en `scouting`. Siguen pendientes la comprobación de campo y las decisiones de dossier. Las búsquedas por interés turístico y por geografía corresponden a las fases posteriores. El [índice de los cuatro bloques](../README.md#estado-actual) enlaza el inventario temático completo.

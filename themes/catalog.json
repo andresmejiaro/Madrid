@@ -31,15 +31,15 @@
     {"id":"MAD-026","title":"Conquista de Mayrit y relato de la Reconquista","status":"scouting"},
     {"id":"MAD-027","title":"La monarquía fabrica una capital","status":"scouting"},
     {"id":"MAD-028","title":"Madrid de los Austrias: corte, validos y ceremonial","status":"scouting"},
-    {"id":"MAD-029","title":"Reinas y regencias","status":"seed"},
-    {"id":"MAD-030","title":"Crisis dinásticas y guerras de sucesión","status":"seed"},
-    {"id":"MAD-031","title":"Los Borbones rediseñan Madrid","status":"seed"},
-    {"id":"MAD-032","title":"Madrid, capital de un imperio sin puerto","status":"seed"},
-    {"id":"MAD-033","title":"Conquista de América: héroes, violencia y mito nacional","status":"seed"},
-    {"id":"MAD-034","title":"Ciencia imperial, expediciones y colecciones","status":"seed"},
-    {"id":"MAD-035","title":"Esclavitud, abolición y fortunas coloniales","status":"seed"},
-    {"id":"MAD-036","title":"El imperio expuesto","status":"seed"},
-    {"id":"MAD-037","title":"Cuba, Puerto Rico, Filipinas y 1898","status":"seed"},
-    {"id":"MAD-038","title":"Herencias coloniales en el Madrid actual","status":"seed"}
+    {"id":"MAD-029","title":"Reinas y regencias","status":"scouting"},
+    {"id":"MAD-030","title":"Crisis dinásticas y guerras de sucesión","status":"scouting"},
+    {"id":"MAD-031","title":"Los Borbones rediseñan Madrid","status":"scouting"},
+    {"id":"MAD-032","title":"Madrid, capital de un imperio sin puerto","status":"scouting"},
+    {"id":"MAD-033","title":"Conquista de América: héroes, violencia y mito nacional","status":"scouting"},
+    {"id":"MAD-034","title":"Ciencia imperial, expediciones y colecciones","status":"scouting"},
+    {"id":"MAD-035","title":"Esclavitud, abolición y fortunas coloniales","status":"scouting"},
+    {"id":"MAD-036","title":"El imperio expuesto","status":"scouting"},
+    {"id":"MAD-037","title":"Cuba, Puerto Rico, Filipinas y 1898","status":"scouting"},
+    {"id":"MAD-038","title":"Herencias coloniales en el Madrid actual","status":"scouting"}
   ]
 }

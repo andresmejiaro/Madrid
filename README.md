@@ -4,9 +4,18 @@ Repositorio de investigación y diseño para un futuro portafolio de rutas temá
 
 ## Estado actual
 
-**Fase 1: búsqueda de puntos por temas en la Comunidad de Madrid.**
+**Fase 1 completada: búsqueda de puntos por temas en la Comunidad de Madrid.**
 
-El catálogo reúne semillas de investigación. La primera búsqueda parte de cada tema, como en París. Las fases 2 y 3 buscarán por interés turístico y por geografía, respectivamente. Los bloques publicados cubren [MAD-001 a MAD-007](themes/scouting/fase-1-mad-001-007.md), [MAD-008 a MAD-014](themes/scouting/fase-1-mad-008-014.md) y [MAD-015 a MAD-028](themes/scouting/fase-1-mad-015-028.md).
+El catálogo reúne 38 temas investigados. Los cuatro bloques documentan 222 registros de candidatos en 32 municipios. La cifra incluye ubicaciones con varias lecturas temáticas.
+
+| Bloque temático | Registros |
+|---|---:|
+| [MAD-001 a MAD-007](themes/scouting/fase-1-mad-001-007.md) | 38 |
+| [MAD-008 a MAD-014](themes/scouting/fase-1-mad-008-014.md) | 46 |
+| [MAD-015 a MAD-028](themes/scouting/fase-1-mad-015-028.md) | 81 |
+| [MAD-029 a MAD-038](themes/scouting/fase-1-mad-029-038.md) | 57 |
+
+Las fases 2 y 3 corresponden a búsquedas independientes por interés turístico y por geografía, respectivamente.
 
 ## Qué hereda de París
 

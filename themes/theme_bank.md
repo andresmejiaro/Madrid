@@ -1,6 +1,6 @@
 # Banco inicial de temas — 11 noviembre 2026
 
-Este banco expande la conversación inicial. Todas las entradas están en estado `seed`; los textos describen hipótesis, no hallazgos confirmados.
+Este banco expande la conversación inicial. Los textos describen las hipótesis iniciales. El [catálogo](catalog.json) recoge el estado de cada tema y los [bloques de investigación](../README.md#estado-actual) documentan los puntos candidatos.
 
 | ID | Tema | Pregunta o promesa inicial | Riesgo principal |
 |---|---|---|---|
